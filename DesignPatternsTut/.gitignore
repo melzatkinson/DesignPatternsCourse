@@ -1,0 +1,13 @@
+*.suo
+*.user
+
+/DesignPatterns/bin
+/DesignPatterns/obj
+
+/DesignPatternsTut/bin
+/DesignPatternsTut/obj
+
+/StructuralDesignPatterns/bin
+/StructuralDesignPatterns/obj
+
+/packages
